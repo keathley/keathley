@@ -16,5 +16,6 @@ my skill set feel free to email me at c@keathley.io.
 
 ### Links
 
-* I write on my blog here: https://keathley.io
-* Occasionally share thoughts on twitter: https://twitter.com/ChrisKeathley
+* [Blog](https://keathley.io)
+* [Talks](https://keathley.io/talks)
+* [Twitter](https://twitter.com/ChrisKeathley)
