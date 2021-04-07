@@ -11,9 +11,6 @@ of elixir and erlang related topics.
 If you've found some value in any of the stuff I've worked on and you have a few
 bucks to spare, maybe consider [sponsoring me on Github](https://github.com/sponsors/keathley).
 
-I'm currently exploring new opportunities so if you're looking for someone with
-my skill set feel free to email me at c@keathley.io.
-
 ### Links
 
 * [Blog](https://keathley.io)
